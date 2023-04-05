@@ -1,0 +1,21 @@
+#home{
+    background-color: #1abc9c !important;
+    height: 100vh;
+}
+.profile-pic{
+    width: 15rem;
+}
+h1{
+    font-size: 4rem;
+    font-weight: 700;
+    transition: all 0.5s;
+}
+.custom-line{
+    width: 7rem;
+    height: 0.25rem;
+}
+@media screen and (max-width: 600px) {
+    h1 {
+      font-size: 4rem;
+    }
+  }
