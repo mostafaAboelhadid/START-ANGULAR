@@ -1,1 +1,9 @@
 /* You can add global styles to this file, and also import other style files */
+.root{
+    --maincolor: #1abc9c !important;
+    --seccolor: #2c3e50 !important;
+}
+
+*{
+    font-family: 'Montserrat', sans-serif;
+}
