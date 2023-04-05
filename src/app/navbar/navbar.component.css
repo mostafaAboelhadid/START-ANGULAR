@@ -1,0 +1,23 @@
+.navbar {
+  background-color: #2c3e50;
+  z-index: 9999999999;
+}
+.navbar-brand {
+  font-size: 2rem;
+}
+.navbar-toggler {
+  background-color: #1abc9c;
+}
+.navbar a {
+  color: white;
+  font-weight: 700;
+  padding: 1rem;
+}
+.navbar-nav a:hover {
+  color: #1abc9c !important;
+}
+.page-show {
+  background-color: #1abc9c;
+  border-radius: 1rem;
+  transition: all 0.5s;
+}
