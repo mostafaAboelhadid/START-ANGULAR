@@ -32,12 +32,11 @@ h2 {
   background-color: #1abc9c;
   border-color: #1abc9c;
   padding: 1rem 1.75rem;
-  font-weight: 400;
 }
 .btn-primary:hover {
-    color: #fff;
-    background-color: #159a80;
-    border-color: #148f77;
+  color: #fff;
+  background-color: #159a80;
+  border-color: #148f77;
 }
 .label {
   font-size: 0.85rem;
